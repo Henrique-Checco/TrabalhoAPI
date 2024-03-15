@@ -1,3 +1,4 @@
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using SistemaDePedidos.Models;
 using SistemaDePedidos.Repositorio;
@@ -5,6 +6,7 @@ using SistemaDePedidos.Repositorio.Interface;
 
 namespace SistemaDePedidos.Controllers
 {
+    [Authorize]
     [Route("api/[controller]")]
     [ApiController]
     public class PedidosProdutosController : ControllerBase

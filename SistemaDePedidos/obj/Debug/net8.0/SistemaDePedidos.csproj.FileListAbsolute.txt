@@ -134,3 +134,5 @@ C:\Users\SENAI3EM\Desktop\API\SistemaDePedidos\SistemaDePedidos\obj\Debug\net8.0
 C:\Users\SENAI3EM\Desktop\API\SistemaDePedidos\SistemaDePedidos\obj\Debug\net8.0\SistemaDePedidos.pdb
 C:\Users\SENAI3EM\Desktop\API\SistemaDePedidos\SistemaDePedidos\obj\Debug\net8.0\SistemaDePedidos.genruntimeconfig.cache
 C:\Users\SENAI3EM\Desktop\API\SistemaDePedidos\SistemaDePedidos\obj\Debug\net8.0\ref\SistemaDePedidos.dll
+C:\Users\SENAI3EM\Desktop\API\SistemaDePedidos\SistemaDePedidos\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\SENAI3EM\Desktop\API\SistemaDePedidos\SistemaDePedidos\obj\Debug\net8.0\SistemaDePedidos.sourcelink.json
